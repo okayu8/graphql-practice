@@ -1,0 +1,13 @@
+{
+  "name": "graphql-server-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/okayu8/graphql-server-practice.git",
+  "author": "okayu8 <hitugaya12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}
